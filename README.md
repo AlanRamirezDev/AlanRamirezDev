@@ -43,8 +43,11 @@ Soy **Ingeniero en Informática** apasionado por resolver problemas complejos de
   </a>
 </p>
 
-### 📊 Actividad en GitHub
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanRamirezDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRamirezDev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 Actividad y Contribuciones
+
+A través de mi perfil puedes explorar el desarrollo activo de mis proyectos personales, el diseño de arquitecturas backend y la implementación de mis interfaces frontend. 
+
+- 🚀 **Proyectos de Desarrollo:** Puedes explorar mis proyectos directamente en la pestaña [Repositorios](https://github.com/AlanRamirezDev?tab=repositories).
+- 📬 **¿Interesado en colaborar?** Puedes contactarme formalmente a través de mi perfil de **[LinkedIn](https://www.linkedin.com/in/alan-ramírezj/)**.
+
+---
