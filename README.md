@@ -48,6 +48,6 @@ Soy **Ingeniero en Informática** apasionado por resolver problemas complejos de
 A través de mi perfil puedes explorar el desarrollo activo de mis proyectos personales, el diseño de arquitecturas backend y la implementación de mis interfaces frontend. 
 
 - 🚀 **Proyectos de Desarrollo:** Puedes explorar mis proyectos directamente en la pestaña [Repositorios](https://github.com/AlanRamirezDev?tab=repositories).
-- 📬 **¿Interesado en colaborar?** Puedes contactarme formalmente a través de mi perfil de **[LinkedIn](https://www.linkedin.com/in/alan-ramírezj/)**.
+- 📬 **¿Interesado en colaborar?** Puedes contactarme formalmente a través de mi perfil de **[LinkedIn](https://www.linkedin.com/in/alan-ramirezj/)**.
 
 ---
