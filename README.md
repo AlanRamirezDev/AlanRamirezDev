@@ -1,4 +1,4 @@
-![Banner de Mi Perfil](https://github.com/AlanRamirezDev/AlanRamirezDev/raw/main/images/banner.png)
+![Banner de Mi Perfil](https://github.com/AlanRamirezDev/AlanRamirezDev/raw/main/images/bannerGH.png)
 
 ### Construyendo soluciones robustas, escalables y resilientes, enfocadas en la lógica de ingeniería por encima del stack.
 
